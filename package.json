@@ -1,0 +1,19 @@
+{
+  "name": "type-script-example",
+  "version": "0.1.0",
+  "description": "Typescript Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheetalrana190/Type-Script-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sheetalrana190/Type-Script-Example/issues"
+  },
+  "homepage": "https://github.com/Sheetalrana190/Type-Script-Example#readme"
+}

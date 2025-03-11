@@ -14,4 +14,8 @@ test("calculate the volume of a prisim", () => {
     const volume = calculateVolumeOfaPrism(width, length, hight);
 
     expect(volume).toBe(width*length*hight)
+
+    test.todo("todo when length is negative it should throw an error message");
+    test.todo("todo when hight is negative it should throw an error message");
+    test.todo("todo when width is negative it should throw an error message") 
 });
